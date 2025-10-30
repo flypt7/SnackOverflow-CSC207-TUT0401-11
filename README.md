@@ -2,7 +2,6 @@
 
 We are the **SnackOverflow Team**. Our goal? Make you find your next meal in an intuitive app.
 
----
 ## What for?
 
 - _Have **specific ingredients left** and wondering how to use them?_
@@ -35,7 +34,7 @@ screen!
   - [ ] Write entities
 - [ ] Create timeline
 
----
+
 ## User Stories
 
 1) As a user, I sometimes have trouble coming up with recipes with the  ingredient that I already have.
